@@ -1,0 +1,1108 @@
+[
+  {
+    "cp_percent": 10,
+    "cp_value": 38,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 22,
+    "hq": false,
+    "id": "6b218c327b8",
+    "name": {
+      "cn": "【ilv.125】芝士焗洋葱汤",
+      "de": "Überbackene Zwiebelsuppe",
+      "en": "Baked Onion Soup",
+      "fr": "Soupe à l'oignon",
+      "ja": "オニオングラタンスープ"
+    }
+  },
+  {
+    "cp_percent": 13,
+    "cp_value": 48,
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 28,
+    "hq": true,
+    "id": "6b218c327b8",
+    "name": {
+      "cn": "【ilv.125】芝士焗洋葱汤",
+      "de": "Überbackene Zwiebelsuppe",
+      "en": "Baked Onion Soup",
+      "fr": "Soupe à l'oignon",
+      "ja": "オニオングラタンスープ"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 14,
+    "hq": false,
+    "id": "166c5a80d72",
+    "name": {
+      "cn": "【ilv.029】烤黑鳎",
+      "de": "Gebratene Seezunge",
+      "en": "Baked Sole",
+      "fr": "Sole au four",
+      "ja": "ベイクドソール"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 17,
+    "hq": true,
+    "id": "166c5a80d72",
+    "name": {
+      "cn": "【ilv.029】烤黑鳎",
+      "de": "Gebratene Seezunge",
+      "en": "Baked Sole",
+      "fr": "Sole au four",
+      "ja": "ベイクドソール"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 54,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 23,
+    "hq": false,
+    "id": "c22fc7acb1d",
+    "name": {
+      "cn": "【ilv.133】洛夫坦山羊汤",
+      "de": "Purpurrote Bete-Suppe",
+      "en": "Beet Soup",
+      "fr": "Soupe pourpre",
+      "ja": "クリムゾンスープ"
+    }
+  },
+  {
+    "control_percent": 12,
+    "control_value": 68,
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 29,
+    "hq": true,
+    "id": "c22fc7acb1d",
+    "name": {
+      "cn": "【ilv.133】洛夫坦山羊汤",
+      "de": "Purpurrote Bete-Suppe",
+      "en": "Beet Soup",
+      "fr": "Soupe pourpre",
+      "ja": "クリムゾンスープ"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 38,
+    "hq": false,
+    "id": "2bf6dd0284f",
+    "name": {
+      "cn": "【ilv.110】秘制王冠蛋糕",
+      "de": "Königskuchen",
+      "en": "Better Crowned Pie",
+      "fr": "Galette des rois spéciale",
+      "ja": "秘製ガレット・デ・ロワ"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 51,
+    "cp_percent": 21,
+    "cp_value": 53,
+    "hq": false,
+    "id": "3a08e09ab95",
+    "name": {
+      "cn": "【ilv.418】血色五海杂烩汤",
+      "de": "Blut-Bouillabaisse",
+      "en": "Blood Bouillabaisse",
+      "fr": "Bouillabaisse sanguine",
+      "ja": "ブラッドブイヤベース"
+    }
+  },
+  {
+    "control_percent": 5,
+    "control_value": 64,
+    "cp_percent": 26,
+    "cp_value": 66,
+    "hq": true,
+    "id": "3a08e09ab95",
+    "name": {
+      "cn": "【ilv.418】血色五海杂烩汤",
+      "de": "Blut-Bouillabaisse",
+      "en": "Blood Bouillabaisse",
+      "fr": "Bouillabaisse sanguine",
+      "ja": "ブラッドブイヤベース"
+    }
+  },
+  {
+    "cp_percent": 8,
+    "cp_value": 22,
+    "craftsmanship_percent": 7,
+    "craftsmanship_value": 122,
+    "hq": false,
+    "id": "f83b072073c",
+    "name": {
+      "cn": "【ilv.406】血番茄沙拉",
+      "de": "Bluttomatensalat",
+      "en": "Blood Tomato Salad",
+      "fr": "Salade de tomates sanguines",
+      "ja": "ブラッドトマトサラダ"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 27,
+    "craftsmanship_percent": 9,
+    "craftsmanship_value": 153,
+    "hq": true,
+    "id": "f83b072073c",
+    "name": {
+      "cn": "【ilv.406】血番茄沙拉",
+      "de": "Bluttomatensalat",
+      "en": "Blood Tomato Salad",
+      "fr": "Salade de tomates sanguines",
+      "ja": "ブラッドトマトサラダ"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 12,
+    "hq": false,
+    "id": "c04b7b50243",
+    "name": {
+      "cn": "【ilv.027】水煮鲷鱼",
+      "de": "Gekochte Brasse",
+      "en": "Boiled Bream",
+      "fr": "Brème bouillie",
+      "ja": "ボイルドブリーム"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 15,
+    "hq": true,
+    "id": "c04b7b50243",
+    "name": {
+      "cn": "【ilv.027】水煮鲷鱼",
+      "de": "Gekochte Brasse",
+      "en": "Boiled Bream",
+      "fr": "Brème bouillie",
+      "ja": "ボイルドブリーム"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 34,
+    "hq": false,
+    "id": "4eb57fadd27",
+    "name": {
+      "cn": "【ilv.055】五海杂烩汤",
+      "de": "Bouillabaisse",
+      "en": "Bouillabaisse",
+      "fr": "Bouillabaisse",
+      "ja": "ブイヤベース"
+    }
+  },
+  {
+    "cp_percent": 13,
+    "cp_value": 43,
+    "hq": true,
+    "id": "4eb57fadd27",
+    "name": {
+      "cn": "【ilv.055】五海杂烩汤",
+      "de": "Bouillabaisse",
+      "en": "Bouillabaisse",
+      "fr": "Bouillabaisse",
+      "ja": "ブイヤベース"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 24,
+    "hq": false,
+    "id": "b31080aad5b",
+    "name": {
+      "cn": "【ilv.034】韭菜洋葱汤",
+      "de": "Cawl Cennin",
+      "en": "Cawl Cennin",
+      "fr": "Bouillon de poireaux",
+      "ja": "カウルケニン"
+    }
+  },
+  {
+    "cp_percent": 13,
+    "cp_value": 30,
+    "hq": true,
+    "id": "b31080aad5b",
+    "name": {
+      "cn": "【ilv.034】韭菜洋葱汤",
+      "de": "Cawl Cennin",
+      "en": "Cawl Cennin",
+      "fr": "Bouillon de poireaux",
+      "ja": "カウルケニン"
+    }
+  },
+  {
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 16,
+    "hq": false,
+    "id": "779099a25cb",
+    "name": {
+      "cn": "【ilv.027】奶酪烩饭",
+      "de": "Käserisotto",
+      "en": "Cheese Risotto",
+      "fr": "Risotto au fromage",
+      "ja": "チーズリゾット"
+    }
+  },
+  {
+    "craftsmanship_percent": 15,
+    "craftsmanship_value": 20,
+    "hq": true,
+    "id": "779099a25cb",
+    "name": {
+      "cn": "【ilv.027】奶酪烩饭",
+      "de": "Käserisotto",
+      "en": "Cheese Risotto",
+      "fr": "Risotto au fromage",
+      "ja": "チーズリゾット"
+    }
+  },
+  {
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 20,
+    "hq": false,
+    "id": "45ece82148b",
+    "name": {
+      "cn": "【ilv.036】奶酪蛋奶酥",
+      "de": "Käseauflauf",
+      "en": "Cheese Souffle",
+      "fr": "Soufflé au fromage",
+      "ja": "チーズスフレ"
+    }
+  },
+  {
+    "craftsmanship_percent": 15,
+    "craftsmanship_value": 25,
+    "hq": true,
+    "id": "45ece82148b",
+    "name": {
+      "cn": "【ilv.036】奶酪蛋奶酥",
+      "de": "Käseauflauf",
+      "en": "Cheese Souffle",
+      "fr": "Soufflé au fromage",
+      "ja": "チーズスフレ"
+    }
+  },
+  {
+    "cp_percent": 4,
+    "cp_value": 14,
+    "craftsmanship_percent": 10,
+    "craftsmanship_value": 38,
+    "hq": false,
+    "id": "858982437ec",
+    "name": {
+      "cn": "【ilv.070】新薯冷汤",
+      "de": "Kalte Toffelsuppe",
+      "en": "Chilled Popoto Soup",
+      "fr": "Soupe de popotos glacée",
+      "ja": "冷製ポポトスープ"
+    }
+  },
+  {
+    "cp_percent": 5,
+    "cp_value": 17,
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 47,
+    "hq": true,
+    "id": "858982437ec",
+    "name": {
+      "cn": "【ilv.070】新薯冷汤",
+      "de": "Kalte Toffelsuppe",
+      "en": "Chilled Popoto Soup",
+      "fr": "Soupe de popotos glacée",
+      "ja": "冷製ポポトスープ"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 58,
+    "cp_percent": 4,
+    "cp_value": 15,
+    "hq": false,
+    "id": "f2adb9b5e98",
+    "name": {
+      "cn": "【ilv.150】鲜贝羹",
+      "de": "Muschelsuppe",
+      "en": "Clam Chowder",
+      "fr": "Chaudrée de palourdes",
+      "ja": "クラムチャウダー"
+    }
+  },
+  {
+    "control_percent": 12,
+    "control_value": 73,
+    "cp_percent": 5,
+    "cp_value": 19,
+    "hq": true,
+    "id": "f2adb9b5e98",
+    "name": {
+      "cn": "【ilv.150】鲜贝羹",
+      "de": "Muschelsuppe",
+      "en": "Clam Chowder",
+      "fr": "Chaudrée de palourdes",
+      "ja": "クラムチャウダー"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 22,
+    "hq": false,
+    "id": "398c2529c7e",
+    "name": {
+      "cn": "【ilv.050】海神汤",
+      "de": "Dolchfisch-Suppe",
+      "en": "Dagger Soup",
+      "fr": "Soupe de dagues",
+      "ja": "ダガースープ"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 27,
+    "hq": true,
+    "id": "398c2529c7e",
+    "name": {
+      "cn": "【ilv.050】海神汤",
+      "de": "Dolchfisch-Suppe",
+      "en": "Dagger Soup",
+      "fr": "Soupe de dagues",
+      "ja": "ダガースープ"
+    }
+  },
+  {
+    "cp_percent": 4,
+    "cp_value": 15,
+    "craftsmanship_percent": 10,
+    "craftsmanship_value": 60,
+    "hq": false,
+    "id": "6062a095615",
+    "name": {
+      "cn": "【ilv.139】绿宝石汤",
+      "de": "Emeraldgrüne Bohnensuppe",
+      "en": "Emerald Soup",
+      "fr": "Soupe émeraude",
+      "ja": "エメラルドスープ"
+    }
+  },
+  {
+    "cp_percent": 5,
+    "cp_value": 19,
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 75,
+    "hq": true,
+    "id": "6062a095615",
+    "name": {
+      "cn": "【ilv.139】绿宝石汤",
+      "de": "Emeraldgrüne Bohnensuppe",
+      "en": "Emerald Soup",
+      "fr": "Soupe émeraude",
+      "ja": "エメラルドスープ"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 26,
+    "hq": false,
+    "id": "655e06195ec",
+    "name": {
+      "cn": "【ilv.043】白鱼汤",
+      "de": "Fischsuppe",
+      "en": "Fish Soup",
+      "fr": "Soupe de poisson",
+      "ja": "フィッシュスープ"
+    }
+  },
+  {
+    "cp_percent": 13,
+    "cp_value": 33,
+    "hq": true,
+    "id": "655e06195ec",
+    "name": {
+      "cn": "【ilv.043】白鱼汤",
+      "de": "Fischsuppe",
+      "en": "Fish Soup",
+      "fr": "Soupe de poisson",
+      "ja": "フィッシュスープ"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 10,
+    "hq": false,
+    "id": "f24646aedfc",
+    "name": {
+      "cn": "【ilv.004】羊奶麦粥",
+      "de": "Frumenty",
+      "en": "Frumenty",
+      "fr": "Fromentée",
+      "ja": "フルメンティ"
+    }
+  },
+  {
+    "cp_percent": 13,
+    "cp_value": 12,
+    "hq": true,
+    "id": "f24646aedfc",
+    "name": {
+      "cn": "【ilv.004】羊奶麦粥",
+      "de": "Frumenty",
+      "en": "Frumenty",
+      "fr": "Fromentée",
+      "ja": "フルメンティ"
+    }
+  },
+  {
+    "control_percent": 7,
+    "control_value": 62,
+    "cp_percent": 3,
+    "cp_value": 8,
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 42,
+    "hq": false,
+    "id": "7a6821b2a7e",
+    "name": {
+      "cn": "【ilv.220】苍穹鸡蛋汤",
+      "de": "Himmelseier-Suppe",
+      "en": "Heavensegg Soup",
+      "fr": "Soupe aux célestœufs",
+      "ja": "ヘヴンスエッグスープ"
+    }
+  },
+  {
+    "control_percent": 9,
+    "control_value": 77,
+    "cp_percent": 4,
+    "cp_value": 10,
+    "craftsmanship_percent": 6,
+    "craftsmanship_value": 53,
+    "hq": true,
+    "id": "7a6821b2a7e",
+    "name": {
+      "cn": "【ilv.220】苍穹鸡蛋汤",
+      "de": "Himmelseier-Suppe",
+      "en": "Heavensegg Soup",
+      "fr": "Soupe aux célestœufs",
+      "ja": "ヘヴンスエッグスープ"
+    }
+  },
+  {
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 12,
+    "hq": false,
+    "id": "7f665fc7bef",
+    "name": {
+      "cn": "【ilv.018】新薯泥",
+      "de": "Toffelbrei",
+      "en": "Mashed Popotoes",
+      "fr": "Purée de popotos",
+      "ja": "マッシュポポト"
+    }
+  },
+  {
+    "craftsmanship_percent": 15,
+    "craftsmanship_value": 15,
+    "hq": true,
+    "id": "7f665fc7bef",
+    "name": {
+      "cn": "【ilv.018】新薯泥",
+      "de": "Toffelbrei",
+      "en": "Mashed Popotoes",
+      "fr": "Purée de popotos",
+      "ja": "マッシュポポト"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 49,
+    "cp_percent": 12,
+    "cp_value": 45,
+    "hq": false,
+    "id": "aef54cb5a5e",
+    "name": {
+      "cn": "【ilv.320】抹茶",
+      "de": "Matcha-Tee",
+      "en": "Matcha",
+      "fr": "Matcha",
+      "ja": "抹茶"
+    }
+  },
+  {
+    "control_percent": 5,
+    "control_value": 61,
+    "cp_percent": 15,
+    "cp_value": 56,
+    "hq": true,
+    "id": "aef54cb5a5e",
+    "name": {
+      "cn": "【ilv.320】抹茶",
+      "de": "Matcha-Tee",
+      "en": "Matcha",
+      "fr": "Matcha",
+      "ja": "抹茶"
+    }
+  },
+  {
+    "cp_percent": 21,
+    "cp_value": 56,
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 84,
+    "hq": false,
+    "id": "8dd8ec5598b",
+    "name": {
+      "cn": "【ilv.460】蒜炒贻贝",
+      "de": "Miserabelmuscheln al Ajillo",
+      "en": "Mejillones al Ajillo",
+      "fr": "Moules al ajillo",
+      "ja": "ムセルアヒージョ"
+    }
+  },
+  {
+    "cp_percent": 26,
+    "cp_value": 70,
+    "craftsmanship_percent": 6,
+    "craftsmanship_value": 105,
+    "hq": true,
+    "id": "8dd8ec5598b",
+    "name": {
+      "cn": "【ilv.460】蒜炒贻贝",
+      "de": "Miserabelmuscheln al Ajillo",
+      "en": "Mejillones al Ajillo",
+      "fr": "Moules al ajillo",
+      "ja": "ムセルアヒージョ"
+    }
+  },
+  {
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 8,
+    "hq": false,
+    "id": "7942793c374",
+    "name": {
+      "cn": "【ilv.010】薄荷酸奶昔",
+      "de": "Minz-Lassi",
+      "en": "Mint Lassi",
+      "fr": "Lassi à la menthe",
+      "ja": "ミントラッシー"
+    }
+  },
+  {
+    "craftsmanship_percent": 15,
+    "craftsmanship_value": 10,
+    "hq": true,
+    "id": "7942793c374",
+    "name": {
+      "cn": "【ilv.010】薄荷酸奶昔",
+      "de": "Minz-Lassi",
+      "en": "Mint Lassi",
+      "fr": "Lassi à la menthe",
+      "ja": "ミントラッシー"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 39,
+    "craftsmanship_percent": 10,
+    "craftsmanship_value": 104,
+    "hq": false,
+    "id": "85a71b7bdac",
+    "name": {
+      "cn": "【ilv.273】豆腐味噌汁",
+      "de": "Miso-Suppe mit Tofu",
+      "en": "Miso Soup with Tofu",
+      "fr": "Soupe miso au tôfu",
+      "ja": "豆腐の味噌汁"
+    }
+  },
+  {
+    "control_percent": 5,
+    "control_value": 49,
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 130,
+    "hq": true,
+    "id": "85a71b7bdac",
+    "name": {
+      "cn": "【ilv.273】豆腐味噌汁",
+      "de": "Miso-Suppe mit Tofu",
+      "en": "Miso Soup with Tofu",
+      "fr": "Soupe miso au tôfu",
+      "ja": "豆腐の味噌汁"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 70,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 30,
+    "hq": false,
+    "id": "de776de7c43",
+    "name": {
+      "cn": "【ilv.180】油封牡蛎",
+      "de": "Austern-Confit",
+      "en": "Oyster Confit",
+      "fr": "Huîtres confites",
+      "ja": "オイスターコンフィ"
+    }
+  },
+  {
+    "control_percent": 12,
+    "control_value": 88,
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 37,
+    "hq": true,
+    "id": "de776de7c43",
+    "name": {
+      "cn": "【ilv.180】油封牡蛎",
+      "de": "Austern-Confit",
+      "en": "Oyster Confit",
+      "fr": "Huîtres confites",
+      "ja": "オイスターコンフィ"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 25,
+    "hq": false,
+    "id": "3a02d54d0ad",
+    "name": {
+      "cn": "【ilv.055】油炸鲯鳅块",
+      "de": "Gebratener Mahi-Mahi",
+      "en": "Pan-fried Mahi-Mahi",
+      "fr": "Mahi-mahi frit",
+      "ja": "マヒマヒの揚げ焼き"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 31,
+    "hq": true,
+    "id": "3a02d54d0ad",
+    "name": {
+      "cn": "【ilv.055】油炸鲯鳅块",
+      "de": "Gebratener Mahi-Mahi",
+      "en": "Pan-fried Mahi-Mahi",
+      "fr": "Mahi-mahi frit",
+      "ja": "マヒマヒの揚げ焼き"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 21,
+    "hq": false,
+    "id": "3392f405565",
+    "name": {
+      "cn": "【ilv.026】翡翠豆汤",
+      "de": "Erbsensuppe",
+      "en": "Pea Soup",
+      "fr": "Soupe de pois",
+      "ja": "ピースープ"
+    }
+  },
+  {
+    "cp_percent": 13,
+    "cp_value": 26,
+    "hq": true,
+    "id": "3392f405565",
+    "name": {
+      "cn": "【ilv.026】翡翠豆汤",
+      "de": "Erbsensuppe",
+      "en": "Pea Soup",
+      "fr": "Soupe de pois",
+      "ja": "ピースープ"
+    }
+  },
+  {
+    "control_percent": 7,
+    "control_value": 118,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 53,
+    "hq": false,
+    "id": "900ab2afcbe",
+    "name": {
+      "cn": "【ilv.412】焗黄新薯",
+      "de": "Ockertoffel-Gratin",
+      "en": "Popotoes au Gratin",
+      "fr": "Gratin de popotos brunes",
+      "ja": "ラセットポポトグラタン"
+    }
+  },
+  {
+    "control_percent": 9,
+    "control_value": 147,
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 66,
+    "hq": true,
+    "id": "900ab2afcbe",
+    "name": {
+      "cn": "【ilv.412】焗黄新薯",
+      "de": "Ockertoffel-Gratin",
+      "en": "Popotoes au Gratin",
+      "fr": "Gratin de popotos brunes",
+      "ja": "ラセットポポトグラタン"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 8,
+    "hq": false,
+    "id": "b86eaf4c272",
+    "name": {
+      "cn": "【ilv.017】生鲜牡蛎",
+      "de": "Rohe Auster",
+      "en": "Raw Oyster",
+      "fr": "Huître crue",
+      "ja": "ローオイスター"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 10,
+    "hq": true,
+    "id": "b86eaf4c272",
+    "name": {
+      "cn": "【ilv.017】生鲜牡蛎",
+      "de": "Rohe Auster",
+      "en": "Raw Oyster",
+      "fr": "Huître crue",
+      "ja": "ローオイスター"
+    }
+  },
+  {
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 32,
+    "hq": false,
+    "id": "2d9f0fd48d9",
+    "name": {
+      "cn": "【ilv.055】罗兰莓奶酪蛋糕",
+      "de": "Rolanbeeren-Käsekuchen",
+      "en": "Rolanberry Cheesecake",
+      "fr": "Gâteau au fromage à la rolanbaie",
+      "ja": "ロランベリーチーズケーキ"
+    }
+  },
+  {
+    "craftsmanship_percent": 15,
+    "craftsmanship_value": 40,
+    "hq": true,
+    "id": "2d9f0fd48d9",
+    "name": {
+      "cn": "【ilv.055】罗兰莓奶酪蛋糕",
+      "de": "Rolanbeeren-Käsekuchen",
+      "en": "Rolanberry Cheesecake",
+      "fr": "Gâteau au fromage à la rolanbaie",
+      "ja": "ロランベリーチーズケーキ"
+    }
+  },
+  {
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 24,
+    "hq": false,
+    "id": "b31af4caa5b",
+    "name": {
+      "cn": "【ilv.046】罗兰莓酸奶昔",
+      "de": "Rolanbeeren-Lassi",
+      "en": "Rolanberry Lassi",
+      "fr": "Lassi à la rolanbaie",
+      "ja": "ロランベリーラッシー"
+    }
+  },
+  {
+    "craftsmanship_percent": 15,
+    "craftsmanship_value": 30,
+    "hq": true,
+    "id": "b31af4caa5b",
+    "name": {
+      "cn": "【ilv.046】罗兰莓酸奶昔",
+      "de": "Rolanbeeren-Lassi",
+      "en": "Rolanberry Lassi",
+      "fr": "Lassi à la rolanbaie",
+      "ja": "ロランベリーラッシー"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 4,
+    "hq": false,
+    "id": "6c59a4e96cd",
+    "name": {
+      "cn": "【ilv.009】盐渍鳕鱼",
+      "de": "Salzdorsch",
+      "en": "Salt Cod",
+      "fr": "Morue salée",
+      "ja": "ソルトコッド"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 5,
+    "hq": true,
+    "id": "6c59a4e96cd",
+    "name": {
+      "cn": "【ilv.009】盐渍鳕鱼",
+      "de": "Salzdorsch",
+      "en": "Salt Cod",
+      "fr": "Morue salée",
+      "ja": "ソルトコッド"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 18,
+    "hq": false,
+    "id": "66ae81c008d",
+    "name": {
+      "cn": "【ilv.042】油炸盐渍鳕鱼丸",
+      "de": "Dorsch im Schlafrock",
+      "en": "Salt Cod Puffs",
+      "fr": "Choux à la morue salée",
+      "ja": "ソルトコッドパフ"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 23,
+    "hq": true,
+    "id": "66ae81c008d",
+    "name": {
+      "cn": "【ilv.042】油炸盐渍鳕鱼丸",
+      "de": "Dorsch im Schlafrock",
+      "en": "Salt Cod Puffs",
+      "fr": "Choux à la morue salée",
+      "ja": "ソルトコッドパフ"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 25,
+    "cp_percent": 12,
+    "cp_value": 40,
+    "hq": false,
+    "id": "825524aa839",
+    "name": {
+      "cn": "【ilv.160】炖番茄",
+      "de": "Ishgarder Fischtopf",
+      "en": "Seafood Stew",
+      "fr": "Ragoût du pêcheur",
+      "ja": "トマトシチュー"
+    }
+  },
+  {
+    "control_percent": 5,
+    "control_value": 31,
+    "cp_percent": 15,
+    "cp_value": 50,
+    "hq": true,
+    "id": "825524aa839",
+    "name": {
+      "cn": "【ilv.160】炖番茄",
+      "de": "Ishgarder Fischtopf",
+      "en": "Seafood Stew",
+      "fr": "Ragoût du pêcheur",
+      "ja": "トマトシチュー"
+    }
+  },
+  {
+    "cp_percent": 4,
+    "cp_value": 14,
+    "craftsmanship_percent": 10,
+    "craftsmanship_value": 49,
+    "hq": false,
+    "id": "5dd7114e7c8",
+    "name": {
+      "cn": "【ilv.090】鱼翅汤",
+      "de": "Haifischflossensuppe",
+      "en": "Shark Fin Soup",
+      "fr": "Soupe d'aileron",
+      "ja": "フカヒレスープ"
+    }
+  },
+  {
+    "cp_percent": 5,
+    "cp_value": 18,
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 61,
+    "hq": true,
+    "id": "5dd7114e7c8",
+    "name": {
+      "cn": "【ilv.090】鱼翅汤",
+      "de": "Haifischflossensuppe",
+      "en": "Shark Fin Soup",
+      "fr": "Soupe d'aileron",
+      "ja": "フカヒレスープ"
+    }
+  },
+  {
+    "cp_percent": 4,
+    "cp_value": 16,
+    "craftsmanship_percent": 10,
+    "craftsmanship_value": 109,
+    "hq": false,
+    "id": "4d26f0bdfc5",
+    "name": {
+      "cn": "【ilv.290】清蒸赤点石斑鱼",
+      "de": "Gedünsteter Zackenbarsch",
+      "en": "Steamed Grouper",
+      "fr": "Garoupa à l'étuvée",
+      "ja": "キジハタの清蒸"
+    }
+  },
+  {
+    "cp_percent": 5,
+    "cp_value": 20,
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 136,
+    "hq": true,
+    "id": "4d26f0bdfc5",
+    "name": {
+      "cn": "【ilv.290】清蒸赤点石斑鱼",
+      "de": "Gedünsteter Zackenbarsch",
+      "en": "Steamed Grouper",
+      "fr": "Garoupa à l'étuvée",
+      "ja": "キジハタの清蒸"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 17,
+    "hq": false,
+    "id": "feeca4582b4",
+    "name": {
+      "cn": "【ilv.017】石子汤",
+      "de": "Steinsuppe",
+      "en": "Stone Soup",
+      "fr": "Soupe de pierre",
+      "ja": "ストーンスープ"
+    }
+  },
+  {
+    "cp_percent": 13,
+    "cp_value": 21,
+    "hq": true,
+    "id": "feeca4582b4",
+    "name": {
+      "cn": "【ilv.017】石子汤",
+      "de": "Steinsuppe",
+      "en": "Stone Soup",
+      "fr": "Soupe de pierre",
+      "ja": "ストーンスープ"
+    }
+  },
+  {
+    "cp_percent": 12,
+    "cp_value": 43,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 42,
+    "hq": false,
+    "id": "0f84d86d2b8",
+    "name": {
+      "cn": "【ilv.279】天妇罗拼盘",
+      "de": "Tempura-Platte",
+      "en": "Tempura Platter",
+      "fr": "Assortiment de tenpura",
+      "ja": "天ぷら盛り合わせ"
+    }
+  },
+  {
+    "cp_percent": 15,
+    "cp_value": 54,
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 53,
+    "hq": true,
+    "id": "0f84d86d2b8",
+    "name": {
+      "cn": "【ilv.279】天妇罗拼盘",
+      "de": "Tempura-Platte",
+      "en": "Tempura Platter",
+      "fr": "Assortiment de tenpura",
+      "ja": "天ぷら盛り合わせ"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 16,
+    "hq": false,
+    "id": "9b515fcfa0f",
+    "name": {
+      "cn": "【ilv.032】猫魅风味海产烤串",
+      "de": "Thunfisch-Miqo'Kebab",
+      "en": "Tuna Miq'abob",
+      "fr": "Miqo-brochette de thon",
+      "ja": "ミコッテ風海の幸串焼"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 20,
+    "hq": true,
+    "id": "9b515fcfa0f",
+    "name": {
+      "cn": "【ilv.032】猫魅风味海产烤串",
+      "de": "Thunfisch-Miqo'Kebab",
+      "en": "Tuna Miq'abob",
+      "fr": "Miqo-brochette de thon",
+      "ja": "ミコッテ風海の幸串焼"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 99,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 42,
+    "hq": false,
+    "id": "7b9dfabf229",
+    "name": {
+      "cn": "【ilv.279】暮晖牛肉汤",
+      "de": "Kriegereintopf",
+      "en": "Warrior's Stew",
+      "fr": "Nogootoj shol",
+      "ja": "ゼラスープ"
+    }
+  },
+  {
+    "control_percent": 12,
+    "control_value": 124,
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 53,
+    "hq": true,
+    "id": "7b9dfabf229",
+    "name": {
+      "cn": "【ilv.279】暮晖牛肉汤",
+      "de": "Kriegereintopf",
+      "en": "Warrior's Stew",
+      "fr": "Nogootoj shol",
+      "ja": "ゼラスープ"
+    }
+  },  {
+    "control_percent": 5,
+    "control_value": 56,
+    "cp_percent": 21,
+    "cp_value": 57,
+    "hq": false,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.480】辣酱炒全蟹",
+      "de": "Chili-Krabbengericht",
+      "en": "Chili Crab",
+      "fr": "Chili de crabe",
+      "ja": "チリクラブ"
+    }
+  },
+  {
+    "control_percent": 6,
+    "control_value": 70,
+    "cp_percent": 26,
+    "cp_value": 72,
+    "hq": true,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.480】辣酱炒全蟹",
+      "de": "Chili-Krabbengericht",
+      "en": "Chili Crab",
+      "fr": "Chili de crabe",
+      "ja": "チリクラブ"
+    }
+  }
+]
