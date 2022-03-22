@@ -1,5 +1,83 @@
 [
   {
+    "cp_percent": 5,
+    "cp_value": 17,
+    "hq": false,
+    "id": "4fe710c87f9",
+    "name": {
+      "cn": "【ilv.554】魔匠药酒",
+      "de": "Fachwissen-Kräuterwein",
+      "en": "Cunning Craftsman's Draught",
+      "fr": "Potion spiritueuse de capacité",
+      "ja": "魔匠の薬酒"
+    }
+  },
+  {
+    "cp_percent": 6,
+    "cp_value": 21,
+    "hq": true,
+    "id": "4fe710c87f9",
+    "name": {
+      "cn": "【ilv.554】魔匠药酒",
+      "de": "Fachwissen-Kräuterwein",
+      "en": "Cunning Craftsman's Draught",
+      "fr": "Potion spiritueuse de capacité",
+      "ja": "魔匠の薬酒"
+    }
+  },
+  {
+    "control_percent": 2,
+    "control_value": 40,
+    "hq": false,
+    "id": "3574f8c53d8",
+    "name": {
+      "cn": "【ilv.540】巨匠药酒",
+      "de": "Fachkenntnis-Kräuterwein",
+      "en": "Commanding Craftsman's Draught",
+      "fr": "Potion spiritueuse de maîtrise",
+      "ja": "巨匠の薬酒"
+    }
+  },
+  {
+    "control_percent": 3,
+    "control_value": 50,
+    "hq": true,
+    "id": "3574f8c53d8",
+    "name": {
+      "cn": "【ilv.540】巨匠药酒",
+      "de": "Fachkenntnis-Kräuterwein",
+      "en": "Commanding Craftsman's Draught",
+      "fr": "Potion spiritueuse de maîtrise",
+      "ja": "巨匠の薬酒"
+    }
+  },
+  {
+    "craftsmanship_percent": 2,
+    "craftsmanship_value": 40,
+    "hq": false,
+    "id": "99c8f8f8de2",
+    "name": {
+      "cn": "【ilv.527】名匠药酒",
+      "de": "Facharbeiter-Kräuterwein",
+      "en": "Competent Craftsman's Draught",
+      "fr": "Potion spiritueuse de virtuosité",
+      "ja": "名匠の薬酒"
+    }
+  },
+  {
+    "craftsmanship_percent": 3,
+    "craftsmanship_value": 50,
+    "hq": true,
+    "id": "99c8f8f8de2",
+    "name": {
+      "cn": "【ilv.527】名匠药酒",
+      "de": "Facharbeiter-Kräuterwein",
+      "en": "Competent Craftsman's Draught",
+      "fr": "Potion spiritueuse de virtuosité",
+      "ja": "名匠の薬酒"
+    }
+  },
+  {
     "control_percent": 2,
     "control_value": 34,
     "hq": false,

@@ -1075,7 +1075,8 @@
       "fr": "Nogootoj shol",
       "ja": "ゼラスープ"
     }
-  },  {
+  },
+  {
     "control_percent": 5,
     "control_value": 56,
     "cp_percent": 21,
@@ -1103,6 +1104,96 @@
       "en": "Chili Crab",
       "fr": "Chili de crabe",
       "ja": "チリクラブ"
+    }
+  },
+    {
+    "craftsmanship_percent": 7,
+    "craftsmanship_value": 146,
+    "cp_percent": 8,
+    "cp_value": 26,
+    "hq": false,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.527】Happiness Juice",
+      "de": "Glückskarottensaft",
+      "en": "Happiness Juice",
+      "fr": "Jus de bonheur",
+      "ja": "ハピネスジュース"
+    }
+  },
+    {
+    "craftsmanship_percent": 9,
+    "craftsmanship_value": 183,
+    "cp_percent": 10,
+    "cp_value": 32,
+    "hq": true,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.527】Happiness Juice",
+      "de": "Glückskarottensaft",
+      "en": "Happiness Juice",
+      "fr": "Jus de bonheur",
+      "ja": "ハピネスジュース"
+    }
+  },
+    {
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 62,
+    "control_percent": 7,
+    "control_value": 132,
+    "hq": false,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.540】Giant Haddock Dip",
+      "de": "Riesentaramosalata",
+      "en": "Giant Haddock Dip",
+      "fr": "Tarama géant",
+      "ja": "ジャイアントタラモサラータ"
+    }
+  },
+    {
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 77,
+    "control_percent": 9,
+    "control_value": 165,
+    "hq": true,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.540】Giant Haddock Dip",
+      "de": "Riesentaramosalata",
+      "en": "Giant Haddock Dip",
+      "fr": "Tarama géant",
+      "ja": "ジャイアントタラモサラータ"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 61,
+    "cp_percent": 21,
+    "cp_value": 62,
+    "hq": false,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.554】Tsai tou Vounou",
+      "de": "Tsai Tou Vounou",
+      "en": "Tsai tou Vounou",
+      "fr": "Chai tou vounou",
+      "ja": "チャイ・トゥ・ヴヌー"
+    }
+  },
+  {
+    "control_percent": 5,
+    "control_value": 76,
+    "cp_percent": 26,
+    "cp_value": 78,
+    "hq": true,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.554】Tsai tou Vounou",
+      "de": "Tsai Tou Vounou",
+      "en": "Tsai tou Vounou",
+      "fr": "Chai tou vounou",
+      "ja": "チャイ・トゥ・ヴヌー"
     }
   }
 ]
