@@ -637,8 +637,7 @@ const stone = [
       imgSrc[allType[i][j]] = srcArr.shift();
     }
   }
-</script>
-<script>
+
   let gameData = [];
   let operateSelect = -1;
   let stons = [];
