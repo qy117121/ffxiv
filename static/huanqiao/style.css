@@ -1,0 +1,147 @@
+      body {
+        background-color: rgb(220, 179, 129);
+      }
+       .content {
+        width: 100%;
+        height: 100%;
+      }
+      .board-wrapper {
+        position: relative;
+        width: 827px;
+        height: 505px;
+        margin: 0px auto;
+        padding: 150px 0px 80px 0px;
+        display: flex;
+        align-items: center;
+      }
+      .board-image {
+        position: absolute;
+        width: 827px;
+        height: 505px;
+        left: 0px;
+        top: 150px;
+      }
+      .refresh-image{
+        position: absolute;
+        width: 38px;
+        height: 44px;
+        left: 382px;
+        top: 177px;
+        z-index: 10;
+      }
+      .img-grid {
+        width: 54px;
+        height: 54px;
+      }
+      .img-grid-child {
+        width: 54px;
+        height: 54px;
+        opacity: 0.1;
+        position: absolute;
+      }
+      .tips-wrapper {
+        width: 200px;
+        height: 360px;
+        margin-left: 10px;
+        z-index: 1;
+      }
+      .game-wrapper {
+        margin-left: 12px;
+        margin-right: 12px;
+        padding-top: 66px;
+        width: 354px;
+        height: 354px;
+        z-index: 1;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-content: space-between;
+      }
+      .draw-wrapper {
+        position: absolute;
+        width: 354px;
+        height: 354px;
+        /* background-color: aqua; */
+        left: 222px;
+        top: 258px;
+        z-index: 10;
+        pointer-events: none;
+      }
+      .operate-wrapper {
+        position: relative;
+        width: 180px;
+        height: 360px;
+        margin-left: 48px;
+        margin-top: 40px;
+        z-index: 1;
+      }
+      .stone-wrapper {
+        margin-top: 36px;
+        width: 180px;
+        height: 40px;
+      }
+    
+      .sword-wrapper-h {
+        margin-top: 20px;
+        width: 96px;
+        height: 64px;
+        display: flex;
+        flex-wrap: wrap;
+      }
+      .reward-operate-wrapper {
+        margin-top: 5px;
+        width: 150px;
+        height: 96px;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+      }
+      .sword-wrapper-v {
+        width: 64px;
+        height: 96px;
+        display: flex;
+        flex-wrap: wrap;
+      }
+      .box-wrapper {
+        margin-top: 10px;
+        width: 64px;
+        height: 64px;
+        display: flex;
+        flex-wrap: wrap;
+      }
+      .clear-wrapper {
+        margin-top: 20px;
+        width: 120px;
+        height: 40px;
+        display: flex;
+        justify-content: space-between;
+      }
+      .img-grid1 {
+        width: 40px;
+        height: 40px;
+      }
+      .img-grid2 {
+        width: 32px;
+        height: 32px;
+      }
+      .select-light {
+        width: 56px;
+        height: 56px;
+        border: 2px solid rgb(240, 240, 98);
+        opacity: 1;
+        position: absolute;
+      }
+      .operate-text{
+        font-size: 12px;
+        position: absolute;
+      }
+      .operate-text-hover:hover p{
+        display: block;
+      }
+      p{
+        display: none;
+        font-size: 11px;
+        color: cadetblue;
+        padding-top: 28px;
+        width: 60px;
+      }
