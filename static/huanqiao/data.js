@@ -1,3 +1,4 @@
+<script>
   const stone = [
     [8, 10, 13, 26, 35],
     [9, 13, 16, 28, 30],
@@ -637,4 +638,4 @@
       imgSrc[allType[i][j]] = srcArr.shift();
     }
   }
-
+</script>
